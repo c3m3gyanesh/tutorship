@@ -5,7 +5,7 @@
 [![Dependency Status](https://gemnasium.com/badges/github.com/tutorship/tutorship.svg)](https://gemnasium.com/github.com/tutorship/tutorship)
 
 [![Join the chat at https://gitter.im/Tutorship/Lobby](https://badges.gitter.im/Tutorship/Lobby.svg)](https://gitter.im/Tutorship/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
 
 # Tutorship
 
@@ -92,8 +92,8 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-| [<img src="https://avatars2.githubusercontent.com/u/12673605?v=3" width="100px;"/><br /><sub>Ahmed Tajelsir</sub>](https://github.com/ahmed-taj)<br />[💻](https://github.com/tutorship/tutorship/commits?author=ahmed-taj) [⚠️](https://github.com/tutorship/tutorship/commits?author=ahmed-taj) 🎨 [📖](https://github.com/tutorship/tutorship/commits?author=ahmed-taj) 🚇 | [<img src="https://avatars2.githubusercontent.com/u/27720566?v=3" width="100px;"/><br /><sub>Abobker Elmaki</sub>](https://github.com/abobkerElmaki)<br />🎨 👀 | [<img src="https://avatars0.githubusercontent.com/u/2053833?v=3" width="100px;"/><br /><sub>efueger</sub>](https://github.com/efueger)<br />🚇 |
-| :---: | :---: | :---: |
+| [<img src="https://avatars2.githubusercontent.com/u/12673605?v=3" width="100px;"/><br /><sub>Ahmed Tajelsir</sub>](https://github.com/ahmed-taj)<br />[💻](https://github.com/tutorship/tutorship/commits?author=ahmed-taj "Code") [⚠️](https://github.com/tutorship/tutorship/commits?author=ahmed-taj "Tests") [🎨](#design-ahmed-taj "Design") [📖](https://github.com/tutorship/tutorship/commits?author=ahmed-taj "Documentation") [🚇](#infra-ahmed-taj "Infrastructure (Hosting, Build-Tools, etc)") | [<img src="https://avatars2.githubusercontent.com/u/27720566?v=3" width="100px;"/><br /><sub>Abobker Elmaki</sub>](https://github.com/abobkerElmaki)<br />[🎨](#design-abobkerElmaki "Design") [👀](#review-abobkerElmaki "Reviewed Pull Requests") | [<img src="https://avatars0.githubusercontent.com/u/2053833?v=3" width="100px;"/><br /><sub>efueger</sub>](https://github.com/efueger)<br />[🚇](#infra-efueger "Infrastructure (Hosting, Build-Tools, etc)") | [<img src="https://avatars0.githubusercontent.com/u/15055726?v=3" width="100px;"/><br /><sub>Evan Ng</sub>](https://evanng.com)<br />[💻](https://github.com/tutorship/tutorship/commits?author=evanscloud "Code") |
+| :---: | :---: | :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
