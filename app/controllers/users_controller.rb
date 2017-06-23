@@ -3,11 +3,6 @@
 class UsersController < ApplicationController
   before_action :set_user, only: %i[show destroy]
 
-  # GET /users
-  def index
-    @users = User.all
-  end
-
   # GET /@login
   def show
   end

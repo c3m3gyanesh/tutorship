@@ -9,7 +9,6 @@ Rails.application.routes.draw do
 
     # Sign in, Sign up & Profile
     devise_scope :user do
-      get 'users', to: 'users#index', as: 'users'
       get '@:login', to: 'users#show', as: 'profile'
       delete '@:login', to: 'users#destroy'
 

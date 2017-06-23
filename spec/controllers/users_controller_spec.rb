@@ -37,13 +37,6 @@ RSpec.describe UsersController, type: :controller do
   # UsersController. Be sure to keep this updated too.
   let(:valid_session) { {} }
 
-  describe 'GET #index' do
-    it 'returns the list of all users' do
-      get :index, params: {}
-      assert_response :success
-    end
-  end
-
   describe 'GET #show' do
     it 'returns specific user details' do
       get :show, params: { login: user.to_param }
