@@ -8,8 +8,10 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
 
 # Tutorship
+>**WIP:** This project is under heavily development. We would love you hear your feedback, chat with us at [gitter](https://gitter.im/Tutorship/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A Git(Hub) powered platform for publishing interactive programming courses.
+
 
 ## Why
 
